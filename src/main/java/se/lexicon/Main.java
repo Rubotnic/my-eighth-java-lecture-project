@@ -20,7 +20,6 @@ public class Main {
             } else if (numToGuess < guess) {
                 System.out.println("Your number is to high");
             }
-
         }
     }
 }
